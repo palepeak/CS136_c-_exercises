@@ -4,7 +4,7 @@
 
 #ifndef CS136_REWRITE_Q3_H
 #define CS136_REWRITE_Q3_H
-
+//2nd test
 int away_div (int num, int denom);
 int closest_div(int num, int denom);
 int num_pizzas (int num_people, int slices_per_pizza, int slices_each);
